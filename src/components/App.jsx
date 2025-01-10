@@ -3,6 +3,7 @@ import DataEntry from "./DataEntry";
 import emojipedia from "../emojipedia"
 
 console.log(emojipedia);
+
 function Create(emojiterm){
   return (
     <DataEntry
